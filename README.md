@@ -14,9 +14,9 @@ An advanced AI-powered system that performs comprehensive sentiment and emotion 
 
 ## 👥 Team Members
 
-- **[Abhinandan Kumar]** - [23BDS001]
-- **[Ankit Kushwaha]** - [23BDS008]
-- **[Harsh Raj]** - [23BDS076]
+- **Abhinandan Kumar** - [23BDS001]
+- **Ankit Kushwaha** - [23BDS008]
+- **Harsh Raj** - [23BDS076]
 
 
 ---
