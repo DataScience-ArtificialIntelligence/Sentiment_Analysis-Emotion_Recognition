@@ -14,10 +14,10 @@ An advanced AI-powered system that performs comprehensive sentiment and emotion 
 
 ## 👥 Team Members
 
-- **[Member Name 1]** - [Role/Contribution]
-- **[Member Name 2]** - [Role/Contribution]
-- **[Member Name 3]** - [Role/Contribution]
-- **[Member Name 4]** - [Role/Contribution]
+- **[Abhinandan Kumar]** - [23BDS001]
+- **[Ankit Kushwaha]** - [23BDS008]
+- **[Harsh Raj]** - [23BDS076]
+
 
 ---
 
@@ -406,19 +406,17 @@ For questions or support:
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](architectre.jpg)
 
 ### Text Analyzer
-![Text Analyzer](screenshots/text_analyzer.png)
+![Text Analyzer](confusion_matrix.png)
 
 ### Image Analyzer
-![Image Analyzer](screenshots/image_analyzer.png)
+![Image Analyzer](output.png)
 
 ### Video Analyzer
-![Video Analyzer](screenshots/video_analyzer.png)
+![Video Analyzer](results.png)
 
-### Trends Dashboard
-![Trends Dashboard](screenshots/trends_dashboard.png)
 
 ---
 
