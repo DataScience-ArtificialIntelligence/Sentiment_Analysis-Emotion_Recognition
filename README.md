@@ -384,14 +384,6 @@ Contributions are welcome! Please:
 
 ---
 
-## 📧 Contact
-
-For questions or support:
-- **Email**: [your-email@example.com]
-- **Project Lead**: [Name]
-- **GitHub**: [repository-link]
-
----
 
 ## 🙏 Acknowledgments
 
@@ -405,26 +397,21 @@ For questions or support:
 
 ## 📸 Screenshots
 
-### Landing Page
+### Architecture Diagram
 ![Landing Page](architectre.jpg)
 
-### Text Analyzer
-![Text Analyzer](confusion_matrix.png)
-
-### Image Analyzer
+### Confusion matrix(Text Model)
 ![Image Analyzer](output.png)
 
-### Video Analyzer
+### Confusion Matrix(Image Model)
+![Text Analyzer](confusion_matrix.png)
+
+### Image Model Loss Graph
 ![Video Analyzer](results.png)
 
 
----
 
-## 🎓 Academic References
+This is my Demo_Video link you can copy and paste in browser to see the demo ---------
+https://drive.google.com/file/d/19TJ9XMbzzFKPNVzn3bA9m-xtUy96Lrcs/view
 
-[Add relevant research papers, datasets, or academic sources used]
 
----
-
-**Last Updated**: [Date]
-**Version**: 1.0.0
